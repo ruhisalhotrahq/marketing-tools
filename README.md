@@ -1,6 +1,7 @@
 # marketing-tools
 
-Hi, I'm Ruhi. Brand marketer in Ahmedabad.
+Hi, I'm Ruhi. Brand marketer, 3x Founding Marketer and a Curious Generalist.
+
 Now building marketing tools in public, mostly so I stop doing the same work twice.
 
 ## What's coming
